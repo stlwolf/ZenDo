@@ -8,8 +8,8 @@
 # General App Info
 #
 app:
-  name: Awesome App # REQUIRED - Enter your app name
-  ios_id: 1109109105 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
+  name: 禅Do # REQUIRED - Enter your app name
+  ios_id:  # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: # Optional - Enter Android app id like: com.example.app
 
   icon: # Leave blank to auto-magically populate
@@ -25,8 +25,8 @@ app:
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+marketing_header: シンプルな機能で瞑想に集中 # Optional
+marketing_desc: 禅Doは瞑想・マインドフルネス・坐禅に集中し、さらに習慣化するためのアプリです。シンプルなタイマー、ミニマルなリマインダー機能でサッと使えます。習慣にしたいけど続かない方や、瞑想用のアプリをお探しの方に最適です。
 
 #
 # Social Links
@@ -48,7 +48,7 @@ social-links:
 #
 enable:
   app_icon: true
-  smart_app_banner: true
+  smart_app_banner: false
 
 #
 # Device
@@ -76,7 +76,7 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: # Optional - Enter your site title
+title: 禅Do # Optional - Enter your site title
 description: # Optional - Enter your site description
 
 #
