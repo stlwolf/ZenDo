@@ -12,7 +12,7 @@ app:
   ios_id:  # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: # Optional - Enter Android app id like: com.example.app
 
-  icon: /images/app-icon-512.jpg # Leave blank to auto-magically populate
+  icon: images/app-icon-512.jpg # Leave blank to auto-magically populate
   # To update use path relative to project root with no leading slash:
   # e.g. images/app-icon-512.png
   # 512px or greater, square
@@ -26,7 +26,7 @@ app:
 # Marketing
 #
 marketing_header: シンプルな機能で瞑想に集中 # Optional
-marketing_desc: 禅Doは瞑想・マインドフルネス・坐禅に集中し<br />さらに習慣化するためのアプリです。<br /><br />シンプルなタイマーとミニマルなリマインダーがサッと使えます。<br />習慣にしたいけど続かない方や、瞑想用のアプリを<br />お探しの方に最適です。
+marketing_desc: 禅Doは瞑想・マインドフルネス・坐禅に集中し<br />さらに習慣化するためのアプリです。<br /><br />ミニマルなタイマーとリマインダーがサッと使えます。<br />習慣にしたいけど続かない方や、瞑想用のアプリを<br />お探しの方に最適です。
 
 #
 # Social Links
