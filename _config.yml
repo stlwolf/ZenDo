@@ -64,8 +64,8 @@ device: iphone-se-silver-vertical # REQUIRED
 # Theme Settings
 #
 background_color: "#989898" # Optional
-background_image: /images/backgrounds/58-usersthink-stock-image-web.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
-text_color: "#008E8F" # Optional
+background_image: /images/backgrounds/100-usersthink-stock-image-web.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
+text_color: "#FCFAF2" # Optional
 link_color: # Optional
 social_link_color: white # Optional
 download_button_background_color: "#0191FF" # Optional
@@ -77,7 +77,7 @@ download_button_text_color: white; # Optional
 # If you want specific meta info for your <head></head> tags
 #
 title: 禅Do # Optional - Enter your site title
-description: # Optional - Enter your site description
+description: 禅Doは瞑想・マインドフルネス・坐禅に集中し、さらに習慣化するためのアプリです。 # Optional - Enter your site description
 
 #
 # Google Analytics
