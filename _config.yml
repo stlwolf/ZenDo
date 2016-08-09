@@ -8,7 +8,7 @@
 # General App Info
 #
 app:
-  name: - 瞑想、マインドフルネスを習慣化するタイマー # REQUIRED - Enter your app name
+  name: 禅Do: 瞑想、マインドフルネスを習慣化するタイマー # REQUIRED - Enter your app name
   ios_id: 1141209747 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: # Optional - Enter Android app id like: com.example.app
 
@@ -76,7 +76,7 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: - 瞑想、マインドフルネスを習慣化するタイマー # Optional - Enter your site title
+title: 禅Do: 瞑想、マインドフルネスを習慣化するタイマー # Optional - Enter your site title
 description: 禅Doは瞑想・マインドフルネス・坐禅に集中し、さらに習慣化するためのアプリです。 # Optional - Enter your site description
 
 #
