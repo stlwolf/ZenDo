@@ -9,7 +9,7 @@
 #
 app:
   name: 禅Do # REQUIRED - Enter your app name
-  ios_id:  # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
+  ios_id: 1141209747 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: # Optional - Enter Android app id like: com.example.app
 
   icon: images/app-icon-512.jpg # Leave blank to auto-magically populate
